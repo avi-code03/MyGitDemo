@@ -1,3 +1,5 @@
-This is my file1.text
-
-Testing file here.
+Public class{
+	public static void main(){
+		System.out.println("Hello Java");
+	}
+}
