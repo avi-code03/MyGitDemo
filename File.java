@@ -6,4 +6,8 @@ Public class{
 	public void test(){
 		System.out.println("Hello from test method");
 	}
+
+	public void newTest(){
+		System.out.println("Hello from newTest method");
+	}
 }
