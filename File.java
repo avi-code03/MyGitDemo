@@ -1,7 +1,9 @@
 Public class File{
 	public static void main(){
 		System.out.println("Hello Java");
-		newTest();
+		//newTest();
+		File f = new File();
+		f.newTest();
 	}
 	
 	public void test(String str){
