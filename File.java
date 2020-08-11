@@ -10,6 +10,6 @@ Public class File{
 	public void newTest(){
 		File f = new File();
 		f.test("Hello Git");
-		System.out.println("Hello from newTest method");
+		System.out.println(str+ "Hello from test method");
 	}
 }
