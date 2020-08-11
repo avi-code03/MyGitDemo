@@ -1,6 +1,7 @@
 Public class File{
 	public static void main(){
 		System.out.println("Hello Java");
+		newTest();
 	}
 	
 	public void test(String str){
